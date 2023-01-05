@@ -1,11 +1,11 @@
 [Desktop Entry]
-Name=openMaximizedKwinScript
-Comment=Always open new windows maximized
+Name=autoTileKwinScript
+Comment=Automatic tiles windows created almost tiled
 Icon=preferences-system-windows
 
 X-KDE-PluginInfo-Author=Tubbadu
 X-KDE-PluginInfo-Email=tubbadu@gmail.com
-X-KDE-PluginInfo-Name=openMaximizedKwinScript
+X-KDE-PluginInfo-Name=autoTileKwinScript
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-License=GPL
 
