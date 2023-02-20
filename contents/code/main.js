@@ -7,7 +7,7 @@ function setTimeout(func, time){
     timer.singleShot = true; // in-case if setTimout and false in-case of setInterval
     timer.timeout.connect(this, func);
     timer.start();
-  }
+}
   
   
   //workspace.slotWindowQuickTileRight()
