@@ -1,11 +1,11 @@
 [Desktop Entry]
-Name=autoTileKwinScript
+Name=autoTile
 Comment=Automatic tiles windows created almost tiled
 Icon=preferences-system-windows
 
 X-KDE-PluginInfo-Author=Tubbadu
 X-KDE-PluginInfo-Email=tubbadu@gmail.com
-X-KDE-PluginInfo-Name=autoTileKwinScript
+X-KDE-PluginInfo-Name=autoTile
 X-KDE-PluginInfo-Version=1.0
 X-KDE-PluginInfo-License=GPL
 
